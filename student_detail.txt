@@ -1,0 +1,4 @@
+sachin 100
+kakali 60
+moni 79
+sony 55
