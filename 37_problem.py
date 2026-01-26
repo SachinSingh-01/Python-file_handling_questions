@@ -13,7 +13,7 @@ else:
 
 # _________________________X___________________________________
 
-# Advance method
+# Advance method using AI
 import getpass
 
 your_password = "Sachinss1@"
